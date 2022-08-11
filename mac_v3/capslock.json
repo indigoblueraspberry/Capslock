@@ -49,22 +49,13 @@
             "key_code": "escape",
             "modifiers": {
               "optional": [
-                "caps_lock"
-              ],
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
+                "any"
               ]
             }
           },
           "to": [
             {
-              "key_code": "caps_lock",
-              "modifiers": [
-                "left_control"
-              ]
+              "key_code": "caps_lock"
             }
           ]
         },
